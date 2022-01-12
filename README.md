@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and computers
 - 🌱 I’m currently learning coding in vocational school
 - 💞️ I’m looking to collaborate with fellow coders
-- 📫 How to reach me: i recomed an email.
+- 📫 How to reach me: i recommend an email.
 -   Have a good day my friends!
 
 <!---
